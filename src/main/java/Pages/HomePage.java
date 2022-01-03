@@ -45,10 +45,40 @@ public class HomePage {
         return new KeyPressesPage(driver);
     }
 
-    // method click
+    // method click Alerts
     public HorizontalSliderPage clickHorizontalSlider(){
         clickLink("Horizontal Slider");
         return new HorizontalSliderPage(driver);
+    }
+
+    // method click Alerts Page
+    public AlertsPage clickAlerts(){
+        clickLink("JavaScript Alerts");
+        return new AlertsPage(driver);
+    }
+
+    // method click FileUploadPage
+    public FileUploadPages clickFileUpload(){
+        clickLink("File Upload");
+        return new FileUploadPages(driver);
+    }
+
+    // method click EntryAd
+    public EntryAdPage clickEntryAd(){
+        clickLink("Entry Ad");
+        return new EntryAdPage(driver);
+    }
+
+    // method click context Menu
+    public ContextMenuPage clickContextMenu(){
+        clickLink("Context Menu");
+        return new ContextMenuPage(driver);
+    }
+
+    // method click WysiwygEditor
+    public WysiwygEditorPage clickWysiwygEditor(){
+        clickLink("WYSIWYG Editor");
+        return new WysiwygEditorPage(driver);
     }
 
 
