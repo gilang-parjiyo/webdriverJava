@@ -7,6 +7,7 @@ public class WysiwygEditorPage {
     private WebDriver driver;
     private String frameId = "mce_0_ifr";
     private By body = By.id("tinymce");
+    private By decreaseIndentButton = By.cssSelector("button[title='Increase indent']");
 
     public WysiwygEditorPage(WebDriver driver) {
         this.driver = driver;
@@ -36,7 +37,16 @@ public class WysiwygEditorPage {
         switchToMainArea();
     }
 
+    public void setDecreaseIndent(){
+        driver.findElement(decreaseIndentButton).click();
+    }
 
+    public String getTextFromEditor(){
+        switchToEditArea();
+        String text = driver.findElement(body).getText();
+        switchToMainArea();
+        return text;
+    }
 
 
 }

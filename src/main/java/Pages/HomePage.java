@@ -81,6 +81,18 @@ public class HomePage {
         return new WysiwygEditorPage(driver);
     }
 
+    // method click Frame
+    public FramePage clickFrame(){
+        clickLink("Frames");
+        return new FramePage(driver);
+    }
+
+    // method click Dynamic Loading Page
+    public DynamicLoadingPage clickDynamicLoading(){
+        clickLink("Dynamic Loading");
+        return new DynamicLoadingPage(driver);
+    }
+
 
 
 }

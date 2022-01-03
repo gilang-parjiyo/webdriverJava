@@ -5,30 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f84baf9-10d5-4937-b914-1c12f598647e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingExample1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingExample2Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/FramePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/NestedFramePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicLoading/WaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/frame/FrameTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/wysiwygEditor/WysiwygEditorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Pages/WysiwygEditorPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/DropDownPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/DropDownPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/EmailSentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/EmailSentPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ForgotPasswordPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ForgotPasswordPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/WysiwygEditorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/WysiwygEditorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ContextMenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ContextMenuPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HorizontalSliderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HorizontalSliderPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HoversPage$FigureCaption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HoversPage$FigureCaption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HoversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HoversPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/KeyPressesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/KeyPressesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SecurePageArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SecurePageArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTestTry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTestTry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/dropDown/DropDownTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dropDown/DropDownTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forgotPassword/EmailSentTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/forgotPassword/EmailSentTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/horizontalSlider/HorizontalSliderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/horizontalSlider/HorizontalSliderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hover/HoverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hover/HoverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/keyPresses/KeyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/keyPresses/KeyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,19 +62,22 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gilan\Documents\Java\webdriver_java\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Pages" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.ContextMenuTest.testContextMenu">
-    <configuration name="ContextMenuTest.testContextMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.WaitTest.testWaitExample2">
+    <configuration name="FrameTests.testFrame" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="webdriverJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="popUp.*" />
+          <option name="PATTERN" value="frame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="popUp" />
-      <option name="MAIN_CLASS_NAME" value="popUp.ContextMenuTest" />
-      <option name="METHOD_NAME" value="testContextMenu" />
+      <option name="PACKAGE_NAME" value="frame" />
+      <option name="MAIN_CLASS_NAME" value="frame.FrameTests" />
+      <option name="METHOD_NAME" value="testFrame" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -92,16 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryAdTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="webdriverJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="popUp.*" />
+          <option name="PATTERN" value="dynamicLoading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="popUp" />
-      <option name="MAIN_CLASS_NAME" value="popUp.EntryAdTest" />
+      <option name="PACKAGE_NAME" value="dynamicLoading" />
+      <option name="MAIN_CLASS_NAME" value="dynamicLoading.WaitTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -109,17 +102,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryAdTest.testEntryAd" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest.testWait (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="webdriverJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="popUp.*" />
+          <option name="PATTERN" value="dynamicLoading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="popUp" />
-      <option name="MAIN_CLASS_NAME" value="popUp.EntryAdTest" />
-      <option name="METHOD_NAME" value="testEntryAd" />
+      <option name="PACKAGE_NAME" value="dynamicLoading" />
+      <option name="MAIN_CLASS_NAME" value="dynamicLoading.WaitTest" />
+      <option name="METHOD_NAME" value="testWait" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,34 +120,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUploadTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest.testWait" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="webdriverJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="popUp.*" />
+          <option name="PATTERN" value="dynamicLoading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fileUpload" />
-      <option name="MAIN_CLASS_NAME" value="popUp.FileUploadTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="dynamicLoading" />
+      <option name="MAIN_CLASS_NAME" value="dynamicLoading.WaitTest" />
+      <option name="METHOD_NAME" value="testWait" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUploadTests.testFileUpload" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest.testWaitExample2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="webdriverJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="popUp.*" />
+          <option name="PATTERN" value="dynamicLoading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fileUpload" />
-      <option name="MAIN_CLASS_NAME" value="popUp.FileUploadTests" />
-      <option name="METHOD_NAME" value="testFileUpload" />
+      <option name="PACKAGE_NAME" value="dynamicLoading" />
+      <option name="MAIN_CLASS_NAME" value="dynamicLoading.WaitTest" />
+      <option name="METHOD_NAME" value="testWaitExample2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ContextMenuTest.testContextMenu" />
-        <item itemvalue="TestNG.EntryAdTest.testEntryAd" />
-        <item itemvalue="TestNG.EntryAdTest" />
-        <item itemvalue="TestNG.FileUploadTests.testFileUpload" />
-        <item itemvalue="TestNG.FileUploadTests" />
+        <item itemvalue="TestNG.WaitTest.testWaitExample2" />
+        <item itemvalue="TestNG.WaitTest" />
+        <item itemvalue="TestNG.WaitTest.testWait (1)" />
+        <item itemvalue="TestNG.WaitTest.testWait" />
+        <item itemvalue="TestNG.FrameTests.testFrame" />
       </list>
     </recent_temporary>
   </component>
@@ -197,5 +191,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webdriverJava$WysiwygEditorTest_testWysiwygEditor.ic" NAME="WysiwygEditorTest.testWysiwygEditor Coverage Results" MODIFIED="1641219110324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>WysiwygEditor.*</FILTER>
+    </SUITE>
   </component>
 </project>
