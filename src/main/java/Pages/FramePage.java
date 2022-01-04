@@ -15,4 +15,5 @@ public class FramePage {
         driver.findElement(nestedFrameLinkText).click();
         return new NestedFramePage(driver);
     }
+
 }

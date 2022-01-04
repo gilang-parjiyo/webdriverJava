@@ -93,6 +93,24 @@ public class HomePage {
         return new DynamicLoadingPage(driver);
     }
 
+    // method click large deep DOM
+    public LargeAndDeepDomPage clickLargeAndDeepDom(){
+        clickLink("Large & Deep DOM");
+        return new LargeAndDeepDomPage(driver);
+    }
+
+    // method click infinite Scroll
+    public InfiniteScrollPage clickInfiniteScroll(){
+        clickLink("Infinite Scroll");
+        return new InfiniteScrollPage(driver);
+    }
+
+    // method click multiple windows
+    public MultipleWindowsPage clickMultipleWindows(){
+        clickLink("Multiple Windows");
+        return new MultipleWindowsPage(driver);
+    }
+
 
 
 }
