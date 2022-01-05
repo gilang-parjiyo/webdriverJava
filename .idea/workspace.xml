@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f84baf9-10d5-4937-b914-1c12f598647e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/InfiniteScrollPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LargeAndDeepDomPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/MultipleWindowsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/EventReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/WindowManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/javascript/JavascriptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/navigation/NavigationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/DropDownPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/DropDownPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingExample2Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingExample2Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/DynamicLoadingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/EntryAdPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/EntryAdPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/FramePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/FramePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/AlertsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/AlertsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ContextMenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ContextMenuPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/DropDownPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/DropDownPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/EmailSentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/EmailSentPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/EntryAdPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/EntryAdPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/FileUploadPages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/FileUploadPages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ForgotPasswordPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ForgotPasswordPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HorizontalSliderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HorizontalSliderPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HoversPage$FigureCaption.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HoversPage$FigureCaption.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HoversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HoversPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/KeyPressesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/KeyPressesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SecurePageArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SecurePageArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/WysiwygEditorPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/WysiwygEditorPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTestTry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTestTry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/dropDown/DropDownTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/dropDown/DropDownTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/forgotPassword/EmailSentTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/forgotPassword/EmailSentTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/horizontalSlider/HorizontalSliderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/horizontalSlider/HorizontalSliderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hover/HoverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hover/HoverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/keyPresses/KeyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/keyPresses/KeyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/popUp/AlertsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/popUp/AlertsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/popUp/ContextMenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/popUp/ContextMenuTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/popUp/EntryAdTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/popUp/EntryAdTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/popUp/FileUploadTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/popUp/FileUploadTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="2f84baf9-10d5-4937-b914-1c12f598647e" name="Changes" comment="complete course" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_course" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -207,6 +163,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640959966423</updated>
     </task>
+    <task id="LOCAL-00001" summary="complete course">
+      <created>1641273291554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641273291554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +183,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete course" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
